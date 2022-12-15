@@ -1,0 +1,38 @@
+{
+  "Monitor": { "size": "  34 x 19 cm (13.4 x 7.5 in)" },
+  "OS": "Windows",
+  "IPv4": "192.168.137.1",
+  "Keyboard": "HIDI2C Device",
+  "HDD": {
+    "0": {
+      "SerialNumber": "0026_B768_3D91_E9B5.",
+      "size": "512 GB",
+      "Model": "KINGSTON OM8PCP3512F-AI1 (Standard disk drives)"
+    },
+    "totalMemory": "512 GB"
+  },
+  "CPU": {
+    "NumberOfLogicalProcessors": 12,
+    "Identifier": "Intel64 Family 6 Model 158 Stepping 10",
+    "Name": "Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+  },
+  "System": {
+    "SerialNumber": "9S716R412417ZK8000195",
+    "Manufacturer": "Micro-Star International Co., Ltd.",
+    "model": "GF63 Thin 9SCXR"
+  },
+  "MAC": "ca:b2:9b:1f:fd:10",
+  "RAM": {
+    "totalMemory": "12 GiB",
+    "BANK 0": {
+      "Capacity": "8 GiB",
+      "Manufacturer": "SK Hynix",
+      "Memory type": "DDR4"
+    },
+    "BANK 2": {
+      "Capacity": "4 GiB",
+      "Manufacturer": "Samsung",
+      "Memory type": "DDR4"
+    }
+  }
+}
